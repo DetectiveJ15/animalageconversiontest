@@ -1,0 +1,12 @@
+//detectivej
+const myAge = 14 //set an age for comuputing
+let earlyYears = 2 // setting the early years of the dog
+earlyYears *= 10.5;
+let laterYears = myAge - 2
+laterYears *= 4
+console.log(earlyYears)
+console.log(laterYears)
+let myAgeInDogYears = earlyYears += laterYears;
+console.log(myAgeInDogYears)
+//Nice! We can see the earlyYears, laterYears, and the total combined value! 
+//Why not try changing the 'myAge' variable?
