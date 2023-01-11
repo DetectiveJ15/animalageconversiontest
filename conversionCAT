@@ -2,7 +2,7 @@
 const myAge = 14
 let earlyYears = 2
 earlyYears *= 12
-let laterYears = myAge - 4
+let laterYears = myAge - 10 // this quantity may need changing because your age - X needs to equal 4
  laterYears *= 4
 console.log(earlyYears)
 console.log(laterYears)
