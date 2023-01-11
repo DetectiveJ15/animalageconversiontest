@@ -1,0 +1,10 @@
+//detectivej
+const myAge = 14
+let earlyYears = 2
+earlyYears *= 12
+let laterYears = myAge - 4
+let laterYears *= 4
+console.log(earlyYears)
+console.log(laterYears)
+let MyAgeInCatYears = earlyYears += laterYears
+console.log(MyAgeInCatYears)
