@@ -1,0 +1,8 @@
+//detectivej
+let myAge = 14 //set age for computing
+//the above code has been changed and formatted to fit the assignment of a 
+//let varible rather than a const to make sure computing totals includes
+//no bugs
+let allYears = 6
+let myAgeInRabbitYears = myAge *= allYears
+console.log(myAgeInRabbitYears)
