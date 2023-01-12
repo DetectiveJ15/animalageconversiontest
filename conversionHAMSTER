@@ -1,0 +1,7 @@
+//detectivej
+//expect to get high number for every age in a human year is 26 years for the hamster.
+let myAge = 2.4//random age to test decimals ages/in between ages.
+let allYears = 26
+//once again, (^) the above code is changed to all years for easier computing
+let myAgeInHamsterYears = myAge *= allYears
+console.log(myAgeInHamsterYears)//once again, high total should be expected even if you use a low number
